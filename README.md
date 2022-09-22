@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to use GitHub
 - 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me gentoer@gmail.com --->
-!!!! Untuk Keperluan MK PBO-2022 !!!
+Untuk Keperluan MK PBO-2022 :
 - 📫  Tugas PBO terletak pada repo "College-Assignments"
 - 🌱  Praktikum PBO Asdos & Pak Ardhi di repo "PPBO-2022"
 <!---
