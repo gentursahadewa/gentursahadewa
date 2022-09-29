@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me gentoer@gmail.com --->
 Untuk Keperluan MK PBO-2022 :
-- 🌱  Praktikum Pak Ardhi dan Asdos ada di repo "PPBO-2022"
+- 🌱  Praktikum PBO (Pak Ardhi dan Asdos) ada di repo "PPBO-2022"
 - 📫  Tugas PBO terletak pada repo "College-Assignments"
 <!---
 gentursahadewa/gentursahadewa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
